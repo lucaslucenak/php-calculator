@@ -17,6 +17,9 @@ else if ($operation == 'subtract') {
 else if ($operation == 'multiply') {
     echo $calculator->multiply();
 }
+else if ($operation == 'divide') {
+    echo $calculator->divide();
+}
 else {
     echo('<p>Invalid operation.</p>');
 }

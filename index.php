@@ -14,6 +14,7 @@
             <option value="add">Add</option>
             <option value="subtract">Subtract</option>
             <option value="multiplicate">Multiply</option>
+            <option value="divide">Divide</option>
             <option value="invalid">Invalid</option>
         </select>
         <button type="submit">Calculate</button>

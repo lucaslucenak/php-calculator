@@ -20,4 +20,8 @@ class Calculator {
     public function multiply() {
         return $this->num1 * $this->num2;
     }
+
+    public function divide() {
+        return $this->num1 / $this->num2;
+    }
 }
